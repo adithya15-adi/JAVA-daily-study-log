@@ -15,7 +15,7 @@ I'm documenting everything I learn every day as I prepare to become a Software D
 
 | Day | Date | Topic | Status |
 |-----|------|-------|--------|
-| Day 1 | 22 Jul 2026 | Functions & Methods | ✅ Completed |
+| Day 1 | 22 Jul 2026 | Functions & Methods | Completed |
 
 ## Repository Structure
 
