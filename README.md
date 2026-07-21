@@ -4,25 +4,47 @@ Welcome to my learning journey!
 
 I'm documenting everything I learn every day as I prepare to become a Software Development Engineer (SDE).
 
-## Goal
+## Goals
 - Master Java
-- Learn DSA
-- Build Projects
+- Learn Data Structures & Algorithms (DSA)
+- Build Real-World Projects
 - Learn MERN Stack
-- Prepare for Placements
+- Prepare for SDE Placements
 
 ## Progress
 
-| Day | Date | Topics |
-|-----|------|--------|
-| Day 1 | 22 Jul 2026 | Functions & Methods |
+| Day | Date | Topic | Status |
+|-----|------|-------|--------|
+| Day 1 | 22 Jul 2026 | Functions & Methods | ✅ Completed |
 
-##  Repository Structure
+## Repository Structure
 
+```text
+JAVA-daily-study-log/
+│
+├── README.md
+│
+└── 2026/
+    └── July/
+        └── Functions-and-Methods/
+            ├── Day-01-22-07-2026.md
+            ├── Product.java
+            ├── Factorial.java
+            ├── Prime.java
+            ├── Functions.java
+            ├── FunctionOverloading.java
+            ├── Greet.java
+            └── Swap.java
 ```
-2026/
-└── July/
-    └── Day-01-22-07-2026.md
-```
 
-> "Consistency beats intensity."
+## Upcoming Topics
+- Number System
+- Arrays
+- Sorting
+- Strings
+- Recursion
+- OOP
+- Collections Framework
+- DSA
+
+> **"Consistency beats intensity. Small progress every day leads to big success."**
