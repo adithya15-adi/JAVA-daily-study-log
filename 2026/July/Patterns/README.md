@@ -1,4 +1,4 @@
-# Day 3 - 23 July 2026
+# Day 3 - 23-July-2026
 
 ## Topic Covered
 ### Pattern Printing (Practice)
