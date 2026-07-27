@@ -4,7 +4,7 @@ Welcome to my Java learning journey! 👋
 
 I'm documenting everything I learn every day as I prepare to become a **Software Development Engineer (SDE)**.
 
-This repository contains my daily Java notes, programs, practice problems, and progress. My goal is to stay consistent, strengthen my programming skills, and build a solid foundation for Data Structures & Algorithms (DSA), Full Stack Development, and Software Engineering.
+This repository contains my daily Java notes, programs, practice problems, and progress. My goal is to stay consistent, strengthen my programming skills, and build a solid foundation for **Data Structures & Algorithms (DSA)**, **Full Stack Development**, and **Software Engineering**.
 
 ---
 
@@ -22,12 +22,13 @@ This repository contains my daily Java notes, programs, practice problems, and p
 # 📈 Learning Progress
 
 | Day | Date | Topic | Status |
-|------|------------|-----------------------------------------------|------------|
+|------|------------|---------------------------------------------|------------|
 | Day 1 | 21 Jul 2026 | Functions & Methods | ✅ Completed |
-| Day 2 | 22 Jul 2026 | Binary ↔ Decimal, Scope, Chapter Completion | ✅ Completed |
-| Day 3 | 23 Jul 2026 | Pattern Practice (8 Basic Star Patterns) | ✅ Completed |
+| Day 2 | 22 Jul 2026 | Binary ↔ Decimal, Scope & Chapter Completion | ✅ Completed |
+| Day 3 | 23 Jul 2026 | Basic Star Patterns | ✅ Completed |
 | Day 4 | 24 Jul 2026 | Advanced Star Patterns | ✅ Completed |
-| Day 5 | 25 Jul 2026 | Number Patterns (8 Programs) | ✅ Completed |
+| Day 5 | 25 Jul 2026 | Number Patterns | ✅ Completed |
+| Day 6 | 26 Jul 2026 | Matrix (Coordinate-Based) Patterns | ✅ Completed |
 
 ---
 
@@ -42,6 +43,7 @@ JAVA-daily-study-log/
     └── July/
         │
         ├── Functions-and-Methods/
+        │   ├── README.md
         │   ├── Day-01-21-07-2026.md
         │   ├── Day-02-22-07-2026.md
         │   ├── Functions.java
@@ -53,9 +55,11 @@ JAVA-daily-study-log/
         │   └── Greet.java
         │
         └── Pattern-Practice/
+            ├── README.md
             ├── Day-03-23-07-2026.md
             ├── Day-04-24-07-2026.md
             ├── Day-05-25-07-2026.md
+            ├── Day-06-26-07-2026.md
             └── Patterns.java
 ```
 
@@ -101,7 +105,7 @@ JAVA-daily-study-log/
 - Same Number Pattern
 - Number Pattern
 - Half Pyramid
-- Full Pyramid (Without Spaces)
+- Full Pyramid (Without Leading Spaces)
 - Inverted Half Pyramid
 - Inverted Pyramid
 - Even Inverted Pyramid
@@ -126,20 +130,33 @@ JAVA-daily-study-log/
 - Descending-Ascending Number Pyramid
 - Concentric Number Pattern
 
+### Matrix (Coordinate-Based) Patterns
+
+- Boundary Pattern
+- Main Diagonal
+- Secondary Diagonal
+- X Pattern
+- Boundary + X Pattern
+- Left Boundary + Main Diagonal + Bottom Boundary
+- Left Boundary + Top Boundary + Secondary Diagonal
+- Right Boundary + Bottom Boundary + Secondary Diagonal
+- Top & Bottom Boundary + X Pattern
+- Left & Right Boundary + X Pattern
+- Shifted Diagonal (Diamond Outline)
+
 ---
 
 # 🚧 Currently Learning
 
-## Advanced Pattern Problems
+## Java Arrays
 
 Current Focus:
 
-- 0-1 Triangle
-- Butterfly Pattern
-- Hollow Rectangle
-- Hollow Rhombus
-- Solid Rhombus
-- Pascal's Triangle
+- One-Dimensional Arrays
+- Array Input & Output
+- Array Traversal
+- Maximum & Minimum Element
+- Linear Search
 
 ---
 
@@ -211,7 +228,7 @@ Current Focus:
 - Write clean Java programs.
 - Update daily study notes.
 - Commit and push code to GitHub.
-- Revise previous topics.
+- Review previous topics.
 
 ---
 
@@ -222,11 +239,7 @@ Java Basics                  ██████████ 100%
 
 Functions & Methods          ██████████ 100%
 
-Basic Star Patterns          ██████████ 100%
-
-Advanced Star Patterns       ██████████ 100%
-
-Number Patterns              ██████████ 100%
+Pattern Printing             ██████████ 100%
 
 Arrays                       ░░░░░░░░░░   0%
 
@@ -245,10 +258,10 @@ DSA                          ░░░░░░░░░░   0%
 
 | Category | Count |
 |----------|------:|
-| 📅 Study Days Completed | **5** |
-| 📄 Daily Notes | **5** |
-| 💻 Java Programs | **25+** |
-| ⭐ Pattern Programs | **22+** |
+| 📅 Study Days Completed | **6** |
+| 📄 Daily Notes | **6** |
+| 💻 Java Programs | **35+** |
+| ⭐ Pattern Programs | **33** |
 | 📚 Java Chapters Completed | **3** |
 
 ---
@@ -276,6 +289,17 @@ Become a skilled **Software Development Engineer (SDE)** by mastering:
 - 💻 Problem Solving
 - 🏗 System Design
 - 🚀 Real-World Projects
+
+---
+
+## 🏆 Current Milestone
+
+✅ Completed the entire **Pattern Printing** chapter, including:
+
+- ⭐ Basic Star Patterns
+- ⭐ Advanced Star Patterns
+- 🔢 Number Patterns
+- 📐 Matrix (Coordinate-Based) Patterns
 
 ---
 
