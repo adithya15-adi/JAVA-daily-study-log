@@ -22,13 +22,14 @@ This repository contains my daily Java notes, programs, practice problems, and p
 # 📈 Learning Progress
 
 | Day | Date | Topic | Status |
-|------|------------|---------------------------------------------|------------|
+|------|------------|--------------------------------------------|------------|
 | Day 1 | 21 Jul 2026 | Functions & Methods | ✅ Completed |
 | Day 2 | 22 Jul 2026 | Binary ↔ Decimal, Scope & Chapter Completion | ✅ Completed |
 | Day 3 | 23 Jul 2026 | Basic Star Patterns | ✅ Completed |
 | Day 4 | 24 Jul 2026 | Advanced Star Patterns | ✅ Completed |
 | Day 5 | 25 Jul 2026 | Number Patterns | ✅ Completed |
 | Day 6 | 26 Jul 2026 | Matrix (Coordinate-Based) Patterns | ✅ Completed |
+| Day 7 | 27 Jul 2026 | Java ArrayList | ✅ Completed |
 
 ---
 
@@ -54,13 +55,18 @@ JAVA-daily-study-log/
         │   ├── Swap.java
         │   └── Greet.java
         │
-        └── Pattern-Practice/
+        ├── Pattern-Practice/
+        │   ├── README.md
+        │   ├── Day-03-23-07-2026.md
+        │   ├── Day-04-24-07-2026.md
+        │   ├── Day-05-25-07-2026.md
+        │   ├── Day-06-26-07-2026.md
+        │   └── Patterns.java
+        │
+        └── ArrayList/
             ├── README.md
-            ├── Day-03-23-07-2026.md
-            ├── Day-04-24-07-2026.md
-            ├── Day-05-25-07-2026.md
-            ├── Day-06-26-07-2026.md
-            └── Patterns.java
+            ├── Day-07-27-07-2026.md
+            └── ArrayListPrograms.java
 ```
 
 ---
@@ -146,6 +152,32 @@ JAVA-daily-study-log/
 
 ---
 
+## 📋 Java ArrayList
+
+### Concepts
+
+- Creating an ArrayList
+- Dynamic Arrays
+- Generic Types
+- Wrapper Classes
+- Collections Utility Class
+
+### Methods Learned
+
+- `add()`
+- `get()`
+- `set()`
+- `remove()`
+- `contains()`
+- `size()`
+- `clear()`
+- `Collections.max()`
+- `Collections.min()`
+- `Collections.sort()`
+- `Collections.reverseOrder()`
+
+---
+
 # 🚧 Currently Learning
 
 ## Java Arrays
@@ -213,7 +245,7 @@ Current Focus:
 # 🎯 Learning Strategy
 
 - 📖 Learn one concept every day.
-- 💻 Implement every concept with Java programs.
+- 💻 Write Java programs for every concept.
 - 📝 Maintain detailed daily notes.
 - 🔄 Revise previous topics regularly.
 - 🧠 Focus on understanding logic instead of memorizing.
@@ -241,6 +273,8 @@ Functions & Methods          ██████████ 100%
 
 Pattern Printing             ██████████ 100%
 
+ArrayList                    ██████████ 100%
+
 Arrays                       ░░░░░░░░░░   0%
 
 Strings                      ░░░░░░░░░░   0%
@@ -258,11 +292,11 @@ DSA                          ░░░░░░░░░░   0%
 
 | Category | Count |
 |----------|------:|
-| 📅 Study Days Completed | **6** |
-| 📄 Daily Notes | **6** |
-| 💻 Java Programs | **35+** |
+| 📅 Study Days Completed | **7** |
+| 📄 Daily Notes | **7** |
+| 💻 Java Programs | **40+** |
 | ⭐ Pattern Programs | **33** |
-| 📚 Java Chapters Completed | **3** |
+| 📚 Java Chapters Completed | **4** |
 
 ---
 
@@ -294,12 +328,9 @@ Become a skilled **Software Development Engineer (SDE)** by mastering:
 
 ## 🏆 Current Milestone
 
-✅ Completed the entire **Pattern Printing** chapter, including:
+✅ Completed the entire **Pattern Printing** chapter.
 
-- ⭐ Basic Star Patterns
-- ⭐ Advanced Star Patterns
-- 🔢 Number Patterns
-- 📐 Matrix (Coordinate-Based) Patterns
+✅ Completed **Java ArrayList Fundamentals**.
 
 ---
 
