@@ -22,14 +22,15 @@ This repository contains my daily Java notes, programs, practice problems, and p
 # 📈 Learning Progress
 
 | Day | Date | Topic | Status |
-|------|------------|--------------------------------------------|------------|
+|------|------------|---------------------------------------------|------------|
 | Day 1 | 21 Jul 2026 | Functions & Methods | ✅ Completed |
 | Day 2 | 22 Jul 2026 | Binary ↔ Decimal, Scope & Chapter Completion | ✅ Completed |
 | Day 3 | 23 Jul 2026 | Basic Star Patterns | ✅ Completed |
 | Day 4 | 24 Jul 2026 | Advanced Star Patterns | ✅ Completed |
 | Day 5 | 25 Jul 2026 | Number Patterns | ✅ Completed |
 | Day 6 | 26 Jul 2026 | Matrix (Coordinate-Based) Patterns | ✅ Completed |
-| Day 7 | 27 Jul 2026 | Java ArrayList | ✅ Completed |
+| Day 7 | 28 Jul 2026 | Java ArrayList & Collections | ✅ Completed |
+| Day 8 | 29 Jul 2026 | Java Arrays & Prefix Sum (Basics) | ✅ Completed |
 
 ---
 
@@ -44,29 +45,22 @@ JAVA-daily-study-log/
     └── July/
         │
         ├── Functions-and-Methods/
-        │   ├── README.md
-        │   ├── Day-01-21-07-2026.md
-        │   ├── Day-02-22-07-2026.md
-        │   ├── Functions.java
-        │   ├── FunctionOverloading.java
-        │   ├── Product.java
-        │   ├── Factorial.java
-        │   ├── Prime.java
-        │   ├── Swap.java
-        │   └── Greet.java
+        │   └── ...
         │
         ├── Pattern-Practice/
-        │   ├── README.md
-        │   ├── Day-03-23-07-2026.md
-        │   ├── Day-04-24-07-2026.md
-        │   ├── Day-05-25-07-2026.md
-        │   ├── Day-06-26-07-2026.md
-        │   └── Patterns.java
+        │   └── ...
         │
-        └── ArrayList/
+        ├── ArrayList/
+        │   └── ...
+        │
+        └── Array/
             ├── README.md
-            ├── Day-07-27-07-2026.md
-            └── ArrayListPrograms.java
+            ├── Day-08-29-07-2026.md
+            ├── ArrayBasics.java
+            ├── PrefixSum.java
+            ├── HackerRank-SolveMeFirst.java
+            ├── HackerRank-AVeryBigSum.java
+            └── LeetCode-1480-RunningSum.java
 ```
 
 ---
@@ -111,7 +105,7 @@ JAVA-daily-study-log/
 - Same Number Pattern
 - Number Pattern
 - Half Pyramid
-- Full Pyramid (Without Leading Spaces)
+- Full Pyramid
 - Inverted Half Pyramid
 - Inverted Pyramid
 - Even Inverted Pyramid
@@ -156,7 +150,6 @@ JAVA-daily-study-log/
 
 ### Concepts
 
-- Creating an ArrayList
 - Dynamic Arrays
 - Generic Types
 - Wrapper Classes
@@ -178,23 +171,55 @@ JAVA-daily-study-log/
 
 ---
 
+## 📦 Java Arrays
+
+### Concepts
+
+- Array Declaration
+- Array Initialization
+- Array Traversal
+- User Input
+- Array Length
+- `Arrays.toString()`
+- Prefix Sum Array (Introduction)
+
+### Programs
+
+- Array Basics
+- Array Traversal
+- Prefix Sum Array
+
+---
+
+# 💻 Coding Practice
+
+## HackerRank
+
+- ✅ Solve Me First
+- ✅ A Very Big Sum
+
+## LeetCode
+
+- ✅ 1480. Running Sum of 1D Array
+
+---
+
 # 🚧 Currently Learning
 
 ## Java Arrays
 
 Current Focus:
 
-- One-Dimensional Arrays
-- Array Input & Output
-- Array Traversal
+- Prefix Sum Arrays
 - Maximum & Minimum Element
 - Linear Search
+- Binary Search
+- Array Interview Problems
 
 ---
 
 # 📚 Upcoming Java Topics
 
-- Arrays
 - 2D Arrays
 - Strings
 - Searching
@@ -245,9 +270,9 @@ Current Focus:
 # 🎯 Learning Strategy
 
 - 📖 Learn one concept every day.
-- 💻 Write Java programs for every concept.
-- 📝 Maintain detailed daily notes.
-- 🔄 Revise previous topics regularly.
+- 💻 Practice coding problems regularly.
+- 📝 Maintain detailed notes.
+- 🔄 Revise previous topics.
 - 🧠 Focus on understanding logic instead of memorizing.
 - 🚀 Build projects while learning.
 
@@ -275,7 +300,7 @@ Pattern Printing             ██████████ 100%
 
 ArrayList                    ██████████ 100%
 
-Arrays                       ░░░░░░░░░░   0%
+Arrays                       ███████░░░  70%
 
 Strings                      ░░░░░░░░░░   0%
 
@@ -283,7 +308,7 @@ OOP                          ░░░░░░░░░░   0%
 
 Collections Framework        ░░░░░░░░░░   0%
 
-DSA                          ░░░░░░░░░░   0%
+DSA                          █░░░░░░░░░  10%
 ```
 
 ---
@@ -292,10 +317,11 @@ DSA                          ░░░░░░░░░░   0%
 
 | Category | Count |
 |----------|------:|
-| 📅 Study Days Completed | **7** |
-| 📄 Daily Notes | **7** |
-| 💻 Java Programs | **40+** |
+| 📅 Study Days Completed | **8** |
+| 📄 Daily Notes | **8** |
+| 💻 Java Programs | **45+** |
 | ⭐ Pattern Programs | **33** |
+| 🏆 Coding Problems Solved | **3** |
 | 📚 Java Chapters Completed | **4** |
 
 ---
@@ -326,11 +352,13 @@ Become a skilled **Software Development Engineer (SDE)** by mastering:
 
 ---
 
-## 🏆 Current Milestone
+# 🏆 Current Milestone
 
-✅ Completed the entire **Pattern Printing** chapter.
-
-✅ Completed **Java ArrayList Fundamentals**.
+- ✅ Completed Functions & Methods
+- ✅ Completed Pattern Printing (33 Programs)
+- ✅ Completed Java ArrayList Fundamentals
+- ✅ Started Java Arrays
+- ✅ Solved HackerRank and LeetCode Array Problems
 
 ---
 
